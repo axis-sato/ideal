@@ -9,7 +9,7 @@ An ideal fish shell theme based on [clearance].
 With [fisherman]
 
 ```
-fisher c8112002/ideal
+fisher add c8112002/ideal
 ```
 
 [fisherman]: https://github.com/fisherman/fisherman
